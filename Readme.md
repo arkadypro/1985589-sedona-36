@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Аркадий Ординьян](https://up.htmlacademy.ru/htmlcss/36/user/1985589).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://up.htmlacademy.ru/htmlcss/36/tutors)
 
 ---
 
